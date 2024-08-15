@@ -28,9 +28,9 @@ Welcome to my GitHub profile! I'm an entry-level cybersecurity professional pass
 - **Description:** Using Wireshark to Capture Traffic, Review Already Captured PCAPs, Analyze Packets 
 - **Technologies Used:** Wireshark
   
-### 3. [Log Analysis and Monitoring](https://github.com/yourusername/log-analysis-monitoring)
-- **Description:** A project focused on analyzing and visualizing security logs for anomaly detection.
-- **Technologies Used:** ELK Stack (Elasticsearch, Logstash, Kibana), Python
+### 3. [Python Scripting](https://github.com/BlaccHippy/Python-Scripting-)
+- **Description:** A project focused on learning common Python expressions and creating user-defined functions. 
+- **Technologies Used:**  Python
 
 ## 🧑‍🎓 Education
 
