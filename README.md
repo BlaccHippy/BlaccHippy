@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm an entry-level cybersecurity professional pass
 
 ## 📂 Projects
 
-### 1. [Creating Phishing Campaign](https://github.com/yourusername/network-penetration-lab)
-- **Description:** A hands-on project to simulate phishing campaign for 
-- **Technologies Used:** Nmap, Metasploit, Kali Linux
+### 1. [Creating Phishing Campaign](https://github.com/BlaccHippy/Phishing-Campaign)
+- **Description:** A hands-on project to simulate phishing campaign and training program for employees
+- **Technologies Used:** Phishing Campaign Generator 
 
 ### 2. [Vulnerability Scanner](https://github.com/yourusername/vulnerability-scanner)
 - **Description:** A Python script to scan for common vulnerabilities in web applications.
