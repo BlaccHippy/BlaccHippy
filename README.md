@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm an entry-level cybersecurity professional pass
 - **Description:** A hands-on project to simulate phishing campaign and training program for employees
 - **Technologies Used:** Phishing Campaign Generator 
 
-### 2. [Packet Capture and Analysis](https://github.com/yourusername/vulnerability-scanner](https://github.com/BlaccHippy/Packet-Capture)
+### 2. [Packet Capture and Analysis](https://github.com/BlaccHippy/Packet-Capture)
 - **Description:** Using Wireshark to Capture Traffic, Review Already Captured PCAPs, Analyze Packets 
 - **Technologies Used:** Wireshark
   
