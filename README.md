@@ -32,6 +32,10 @@ Welcome to my GitHub profile! I'm an entry-level cybersecurity professional pass
 - **Description:** A project focused on learning common Python expressions and creating user-defined functions. 
 - **Technologies Used:**  Python
 
+### 4. [Risk Register](https://github.com/BlaccHippy/Risk-Register)
+- **Description:** Developing a risk register to identify and analyze assets risk levels 
+- **Technologies Used:**  Risk Register Documentation 
+
 ## 🧑‍🎓 Education
 
 - **Bachelor’s Degree in Public Health* - Georgia Southern University 
