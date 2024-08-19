@@ -36,6 +36,10 @@ Welcome to my GitHub profile! I'm an entry-level cybersecurity professional pass
 - **Description:** Developing a risk register to identify and analyze assets risk levels 
 - **Technologies Used:**  Risk Register Documentation 
 
+### 5. [Bash Scripting Fundamentals](https://github.com/BlaccHippy/Bash-Scripting-Fundamentals)
+- **Description:** Execute common commands in LINUX CLI. 
+- **Technologies Used:**  Linux Bash Scripting Langugage 
+
 ## 🧑‍🎓 Education
 
 - **Bachelor’s Degree in Public Health* - Georgia Southern University 
