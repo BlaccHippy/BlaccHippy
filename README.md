@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an entry-level cybersecurity professional pass
 
 ## 🛠️ Skills
 
-- **Security Tools:** Wireshark, tcpdump, Nmap, Nessus 
+- **Security Tools:** Wireshark, tcpdump, Nmap, Nessus, Azure  
 - **Programming Languages:** Python, SAS, BASH, PowerShell
 - **Security Concepts:** Vulnerability Assessment, Risk Management, Network Security, Access Controls, Log and Packet Analysis, Virtualization 
 - **Operating Systems:** Linux, Windows
