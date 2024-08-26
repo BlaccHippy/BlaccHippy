@@ -38,7 +38,11 @@ Welcome to my GitHub profile! I'm an entry-level cybersecurity professional pass
 
 ### 5. [Bash Scripting Fundamentals](https://github.com/BlaccHippy/Bash-Scripting-Fundamentals)
 - **Description:** Execute common commands in LINUX CLI. 
-- **Technologies Used:**  Linux Bash Scripting Langugage 
+- **Technologies Used:**  Linux Bash Scripting Langugage
+
+### 6. [Deploy VM and SIEM in Azure](https://github.com/BlaccHippy/Azure-SIEM-Deployment))
+- **Description:** Deploy VM that allows inbound traffic from RDP, Ingest Logs into SIEM (Microsoft Sentinel), and Create Security Alerts for Certain Actions (Sucessful Log Ins) 
+- **Technologies Used:**  Microsoft Azure, Microsoft Virtual Machines, Microsoft Sentinel  
 
 ## 🧑‍🎓 Education
 
