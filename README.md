@@ -44,6 +44,10 @@ Welcome to my GitHub profile! I'm an entry-level cybersecurity professional pass
 - **Description:** Deploy VM that allows inbound traffic from RDP, Ingest Logs into SIEM (Microsoft Sentinel), and Create Security Alerts for Certain Actions (Sucessful Log Ins) 
 - **Technologies Used:**  Microsoft Azure, Microsoft Virtual Machines, Microsoft Sentinel  
 
+### 7. [Create Web Server and Deploy Firewall to protect server using logical segmentation](https://github.com/BlaccHippy/VirtualNetworkW-Firewall)
+- **Description:** •	Create and deploy virtual networks in Azure, then secure the networks by configuring a firewall that is located between the internet and the virtual networks. 
+- **Technologies Used:**  Microsoft Azure, Microsoft Virtual Machines, Microsoft Sentinel 
+
 ## 🧑‍🎓 Education
 
 - **Bachelor’s Degree in Public Health* - Georgia Southern University 
