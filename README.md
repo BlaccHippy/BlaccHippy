@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm an entry-level cybersecurity professional pass
 ## 🏆 Certifications
 
 - [CompTIA Security+](https://www.credly.com/badges/e6402176-3f5f-4650-8445-956b804de48b/public_url)
-- [Google Cybersecurity Certificate)](https://www.credly.com/badges/73bb8ac6-7bf6-4ff7-a5ab-8a1e375ad3cb/public_url)
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/73bb8ac6-7bf6-4ff7-a5ab-8a1e375ad3cb/public_url)
 
 
 ## 📂 Projects
