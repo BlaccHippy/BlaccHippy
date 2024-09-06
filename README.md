@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an entry-level cybersecurity professional pass
 - **Programming Languages:** Python, SAS, BASH, PowerShell
 - **Security Concepts:** Vulnerability Assessment, Risk Management, Network Security, Access Controls, Log and Packet Analysis, Virtualization 
 - **Operating Systems:** Linux, Windows
-- **Networking:** TCP/IP, DNS, HTTP/HTTPS, VPNs
+- **Networking:** TCP/IP, DNS, DHCP, VLANs, HTTP/HTTPS, VPNs
 
 ## 🏆 Certifications
 
