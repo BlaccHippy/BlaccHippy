@@ -46,7 +46,16 @@ Welcome to my GitHub profile! I'm an entry-level cybersecurity professional pass
 
 ### 7. [Create Web Server and Deploy Firewall to protect server using logical segmentation](https://github.com/BlaccHippy/VirtualNetworkW-Firewall)
 - **Description:** •	Create and deploy virtual networks in Azure, then secure the networks by configuring a firewall that is located between the internet and the virtual networks. 
-- **Technologies Used:**  Microsoft Azure, Microsoft Virtual Machines, Microsoft Sentinel 
+- **Technologies Used:**  Microsoft Azure, Microsoft Virtual Machines, Microsoft Sentinel
+
+### 8. [Configure Network Devices on Cisco Packet Tracer ](https://github.com/BlaccHippy/CiscoConfigurations)
+- **Description:** •  Explore IP addresses, manually configure them on different network devices, and test end-to-end connectivity between these devices. Also, configure virtual interfaces and manage configuration of DHCP servers on Cisco Routers.
+- **Technologies Used:**  Cisco Packet Tracer 
+  
+### 9. [Configuring VLANS on Cisco Switches](https://github.com/BlaccHippy/VLAN-Config)
+- **Description:** •	Create virtual LANs on Cisco switches and assign switch ports to them, set up data and voice VLANS, verify VLANS settings, delete VLANs, and configure VLAN routing
+- **Technologies Used:**  Cisco Packet Tracer 
+
 
 ## 🧑‍🎓 Education
 
